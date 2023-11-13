@@ -1,6 +1,6 @@
 Hola. Mi nombre es Nataly Arce Monsalve. Soy de Rancagua, me dedico al desarrollo web y la actuación.
 Aprendí programación en el bootcamp Full Stack Java y Full Stack Javascript de Talento Digital de Chile.
-No tengo experiencia aún, pero se Java, estoy aprendiendo Javascript, soy muy creativa, bilingüe, me gusta aprender y lo hago de forma rápida. 
+No tengo experiencia aún, pero se Javascript y Java, soy muy creativa, bilingüe, me gusta aprender y lo hago de forma rápida. 
 Soy muy curiosa por ende me gusta estar constantemente averiguando sobre nuevas técnicas de programación para implementarlas 
 en la parte de Front-end del desarrollo de una página web.
 Me pueden contactar a través de mi correo nata.arcem@gmail.com
