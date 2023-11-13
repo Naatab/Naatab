@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HkNn1FM2_04iKbjUvDgHoalVDtOjjM7n/view?usp=drive_link](https://drive.google.com/file/d/1HkNn1FM2_04iKbjUvDgHoalVDtOjjM7n/view?usp=drive_link)
 
-- ⚡ Fun fact **I'm an Actress and a Chef and somehow life show me the path tobe a developer too**
+- ⚡ Fun fact **I'm an Actress and a Chef and somehow life show me the path to became a developer too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
